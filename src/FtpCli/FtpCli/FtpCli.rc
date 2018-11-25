@@ -212,7 +212,7 @@ END
 
 STRINGTABLE
 BEGIN
-    IDS_ABOUTBOX            "关于 Ftp(&A)..."
+    IDS_ABOUTBOX            "关于 FtpCli客户端工具(&A)..."
 END
 
 #endif    // Chinese (Simplified, PRC) resources
